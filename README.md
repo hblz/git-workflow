@@ -35,10 +35,9 @@ url: `https://www.{app}.cn/` 或 `https://{app}.prod.liruan.cn/`
 2. 从 develop 分出新分支 feature/a；
 3. 在 feature/a 开发特性 a；
 4. 完成开发后，请和 QA 一起进行 MSC（Mini Show Case），演示特性 a，并及时修复发现的问题；
-5. MSC 完成后，结束特性 a，代码合并到 develop；
 
 ### 提测
-![](images/merge.gif)
+![](images/git.png)
 
 ### 修复线上 BUG
 1. 从 master 分出新分支 hotfix/v1.2.1；
